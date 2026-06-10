@@ -18,7 +18,7 @@ L'application PDF Publisher propose **deux interfaces distinctes** :
 
 ## Interface 1 : Back Office Admin (http://localhost:5173)
 
-### À quoi ça sert ?
+## À quoi sert cette interface ?
 
 Le back office est l'interface **réservée aux administrateurs** pour gérer tout le contenu.
 
