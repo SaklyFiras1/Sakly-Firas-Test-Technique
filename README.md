@@ -22,7 +22,7 @@ L'application PDF Publisher propose **deux interfaces distinctes** :
 
 Le back office est l'interface **réservée aux administrateurs** pour gérer tout le contenu.
 
-# Interface 2 : Site Public (http://localhost:3000)
+## Interface 2 : Site Public (http://localhost:3000)
 
 ## À quoi sert cette interface ?
 
