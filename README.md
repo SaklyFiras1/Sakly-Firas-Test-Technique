@@ -68,10 +68,10 @@ L'interface 2 est le **site public** de votre application PDF Publisher. C'est l
 | **Docker Compose** | Orchestration multi-conteneurs |
 | **PostgreSQL** | Stockage persistant |
 
-Les interfaces admin
+##Les interfaces admin
 <img width="1918" height="959" alt="image" src="https://github.com/user-attachments/assets/fc8b0d83-d1da-4a88-8581-418583866947" />
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/12673aa2-046b-45b5-9037-831e4ba52d4a" />
-Les interfaces Public
+##Les interfaces Public
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/bcbf39cd-cd0c-4ecd-930f-74f3c17bf5ac" />
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/e39a3d73-263f-4a21-b330-ac99170abeb5" />
 <img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/62a2e7e8-3f1b-4b7a-bec6-21b0dfcb3786" />
